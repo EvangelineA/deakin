@@ -1,6 +1,6 @@
 # deakin
 Sample deakin site
 
-http://coffeebeans.github.io/deakin/
+http://EvangelineA.github.io/deakin/
 
 
